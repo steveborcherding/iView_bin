@@ -1,0 +1,3 @@
+﻿BIDW Informatica (d) Dvlp 9.6.1|Provider=SQLOLEDB.1;Integrated Security=SSPI;Persist Security Info=False;Initial Catalog=Informatica_Rep_Dvlp;Data Source=VABSQLDWREPD04\Dvlp1|rep.
+BIDW Informatica (m) Demo 9.6.1|Provider=SQLOLEDB.1;Integrated Security=SSPI;Persist Security Info=False;Initial Catalog=Informatica_Rep_Demo;Data Source=VABSQLDWREPM04\Demo1|rep.
+BIDW Informatica (p) Prod 9.6.1|Provider=SQLOLEDB.1;Integrated Security=SSPI;Persist Security Info=False;Initial Catalog=Informatica_Rep_Prod;Data Source=VMPSQLDWREPP04\Prod1|rep.
